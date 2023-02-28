@@ -6,7 +6,7 @@ favicon: 'assets/images/logo.png'
 baseurl: '/template-pintereso-bootstrap-jekyll'
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'khanhtcp.2301@gmail.com'
 
 include: ["_pages"]
 permalink: /:title/
