@@ -8,6 +8,13 @@ avatar: 'assets/images/sal.jpg'
 #disqus: 'styleofmehcm-disqus-com'
 email: 'khanhtcp.2301@gmail.com'
 
+author:
+  name: "Styleofme - Iam nicer when i like my outfit."
+  instagram: styleofme.hcm
+  facebook: styleofmehcm
+  tiktok: styleofme1902
+  email: styleofme1902@gmail.com
+
 include: ["_pages"]
 permalink: /:title/
 
