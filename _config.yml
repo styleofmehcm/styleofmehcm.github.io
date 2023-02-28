@@ -5,8 +5,10 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 avatar: 'assets/images/sal.jpg'
-#disqus: 'styleofmehcm-disqus-com'
 email: 'khanhtcp.2301@gmail.com'
+formspree: 'https://formspree.io/f/xdovzevn'
+#disqus: 'styleofmehcm-disqus-com'
+
 
 author:
   name: "Styleofme - Iam nicer when i like my outfit."
@@ -14,6 +16,7 @@ author:
   facebook: styleofmehcm
   tiktok: styleofme1902
   email: styleofme1902@gmail.com
+
 
 include: ["_pages"]
 permalink: /:title/
