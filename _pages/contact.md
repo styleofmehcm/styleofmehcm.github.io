@@ -16,3 +16,23 @@ permalink: "/contact.html"
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
 </form>
+
+
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xdovzevn"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <div class="col-md-6">
+    <textarea name="message"></textarea>
+    </div>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
