@@ -1,8 +1,8 @@
 # Site
 name: 'Styleofme'
 description: 'Iam nicer when i like my outfit'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo_36_39.png'
+favicon: 'assets/images/logo_36_39.png'
 baseurl: ''
 avatar: 'assets/images/sal.jpg'
 disqus: 'website'
