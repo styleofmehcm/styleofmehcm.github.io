@@ -5,10 +5,11 @@ image: "/assets/styleofme/demo_01.jpg"
 ---
 
 ❣️ Nhà SOM có sẵn nhiều set kẹp tóc với nhiều mẫu charm và màu len
-Insta: Styleofme.hcm
-Shoppe: Styleofme.hcm
+- Insta: Styleofme.hcm
+- Shoppe: Styleofme.hcm
 ——————
-SHIP COD TOÀN QUỐC
+**SHIP COD TOÀN QUỐC**
+
 📌 Liên hệ đặt hàng sớm để nhận hàng kịp 8/3 nha!
 
 <!-- Made with <i class="fa fa-heart text-danger"></i> by Sal @wowthemesnet. Thanks for your <a target="_blank" href="https://www.wowthemes.net/freebies-license/">support</a>!
