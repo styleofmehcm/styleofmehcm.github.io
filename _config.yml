@@ -1,11 +1,11 @@
 # Site
-name: 'Pintereso'
-description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: 'Styleofme'
+description: 'I'm nicer when i like my outfit'
+logo: 'assets/styleofme/logo/logo.png'
+favicon: 'assets/styleofme/logo/logo.png'
 baseurl: '/homepage'
 avatar: 'assets/images/sal.jpg'
-disqus: 'demowebsite'
+disqus: 'website'
 email: 'khanhtcp.2301@gmail.com'
 
 include: ["_pages"]
@@ -17,7 +17,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
- 
+  
 # Defaults
 defaults:
 
