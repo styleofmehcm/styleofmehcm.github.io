@@ -17,9 +17,6 @@ visit: "https://www.facebook.com/profile.php?id=100090130313201"
 ![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/10.jpeg)
 
 
-
-
-
 THÔNG TIN SẢN PHẨM 
  - Tên sản phẩm : 
  - Cam kết sản phẩm mới và chất lượng.

@@ -2,17 +2,17 @@
 title:  "Kẹp tóc càng cua phối lông thỏ nhiều màu phong cách Hàn Quốc"
 metadate: "hide"
 categories: [Kẹp tóc càng cua]
-image: "/assets/styleofme/5_kep_cang_cua_phoi_long_tho/8.jpeg"
+image: "/assets/styleofme/5_kep_cang_cua_phoi_long_tho/8.jpg"
 visit: "https://www.facebook.com/profile.php?id=100090130313201"
 ---
 
-![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/1.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/2.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/3.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/4.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/5.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/6.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/7.jpeg)
+![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/1.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/2.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/3.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/4.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/5.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/6.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/5_kep_cang_cua_phoi_long_tho/7.jpg)
 
 
 THÔNG TIN SẢN PHẨM 
