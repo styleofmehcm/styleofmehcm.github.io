@@ -2,19 +2,19 @@
 title:  "Kẹp Tóc Càng Cua Hình Vuông Màu Thạch"
 metadate: "hide"
 categories: [Kẹp tóc càng cua]
-image: "/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/4.jpeg"
+image: "/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/4.jpg"
 visit: "https://www.facebook.com/profile.php?id=100090130313201"
 ---
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/1.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/2.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/3.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/4.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/5.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/6.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/7.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/8.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/9.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/10.jpeg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/1.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/2.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/3.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/4.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/5.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/6.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/7.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/8.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/9.jpg)
+![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/10.jpg)
 
 
 THÔNG TIN SẢN PHẨM 
