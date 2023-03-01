@@ -24,4 +24,4 @@ I'm nicer when i like my outfit.
 ![Set kẹp tóc tự làm](/assets/styleofme/style_of_me_welcome/13.jpeg)
 ![Set kẹp tóc tự làm](/assets/styleofme/style_of_me_welcome/14.jpeg)
 ![Set kẹp tóc tự làm](/assets/styleofme/style_of_me_welcome/15.jpeg)
-![Set kẹp tóc tự làm](/assets/styleofme/style_of_me_welcome/16.jpeg)
+
