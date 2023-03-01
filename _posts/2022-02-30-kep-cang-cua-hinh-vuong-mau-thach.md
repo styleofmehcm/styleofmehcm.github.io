@@ -5,6 +5,7 @@ categories: [Kẹp tóc càng cua]
 image: "/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/4.jpg"
 visit: "https://www.facebook.com/profile.php?id=100090130313201"
 ---
+
 ![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/1.jpg)
 ![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/2.jpg)
 ![Set kẹp tóc tự làm](/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/3.jpg)
