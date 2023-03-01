@@ -2,11 +2,11 @@
 title:  "Kẹp Tóc Càng Cua Vintage Màu Nâu Nhám Phong Cách Hàn Quốc Styleofme"
 metadate: "hide"
 categories: [Kẹp tóc càng cua]
-image: "/assets/styleofme/3_kep_cang_cua_hinh_vuong_mau_thach/4.jpeg"
+image: "/assets/styleofme/4_kep_cang_cua_vintage_mau_nau/1.jpeg"
 visit: "https://www.facebook.com/profile.php?id=100090130313201"
 ---
 
-![Set kẹp tóc tự làm](/assets/styleofme/4_kep_cang_cua_vintage_mau_nau/1.jpeg)
+[comment]: <> (![Set kẹp tóc tự làm]&#40;/assets/styleofme/4_kep_cang_cua_vintage_mau_nau/1.jpeg&#41;)
 ![Set kẹp tóc tự làm](/assets/styleofme/4_kep_cang_cua_vintage_mau_nau/2.jpeg)
 ![Set kẹp tóc tự làm](/assets/styleofme/4_kep_cang_cua_vintage_mau_nau/3.jpeg)
 ![Set kẹp tóc tự làm](/assets/styleofme/4_kep_cang_cua_vintage_mau_nau/4.jpeg)
